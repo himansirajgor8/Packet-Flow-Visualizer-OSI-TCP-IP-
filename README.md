@@ -24,7 +24,7 @@ It shows the encapsulation process step by step:
 - No real packet capture (simulation-based learning tool)
 
 ## 📸 Output Preview
-(Add your screenshot here)
+https://github.com/himansirajgor8/Packet-Flow-Visualizer-OSI-TCP-IP-/blob/main/Screenshot%20(581).png
 
 ## 🚀 How to Run
 1. Run the app
